@@ -1,3 +1,2 @@
 # Stick_Node
-a PCB made for a pro-micro for meshtastic 
-designs are based of faktec wiering and firmware pins. 
+A PCB design that is based off the DIY Faketeck, Firmware for Meshtastic. This is a smd version that can be ordered and just need to add the promicro and the lora chip(HT-RA62 footprint). Battery holder will also be needed separately as well. I'm open to improvements and modifications.
